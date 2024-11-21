@@ -15,13 +15,11 @@ Welcome to the **Supervised and Deep Learning Algorithms** repository! This repo
 - [Contributing](#contributing)
 - [License](#license)
 
----
 
 ## Introduction
 
 This repository combines traditional supervised learning algorithms and state-of-the-art deep learning techniques. It is designed for learners and practitioners who want to deepen their understanding of machine learning and neural networks.
 
----
 
 ## Features
 
@@ -30,7 +28,6 @@ This repository combines traditional supervised learning algorithms and state-of
 - Detailed comments and documentation.
 - Visualisations of results and performance metrics.
 
----
 
 ## Algorithms Included
 
@@ -52,7 +49,6 @@ This repository combines traditional supervised learning algorithms and state-of
 - Decision Tree Regression
 - Support Vector Regression (SVR)
 
----
 
 ### Deep Learning Algorithms:
 - Feedforward Neural Networks
@@ -63,7 +59,6 @@ This repository combines traditional supervised learning algorithms and state-of
 - Autoencoders
 - Generative Adversarial Networks (GANs)
 
----
 
 ## Setup and Installation
 
@@ -72,14 +67,13 @@ Ensure you have Python 3.8+ installed on your machine. Install the necessary lib
 ```bash
 pip install -r requirements.txt
 ```
----
 
 ## Clone the Repository:
 ```bash
 git clone https://github.com/your-username/supervised-deep-learning-algorithms.git
 cd supervised-deep-learning-algorithms
 ```
----
+
 ## Usage
 ### Running an Algorithm:
 Each algorithm has its own script. For example, to run Logistic Regression:
@@ -95,7 +89,7 @@ Use the --plot flag to visualise the results:
 ```
 python algorithms/<algorithm_name>.py --plot
 ```
----
+
 ## Project Structure
 
 ```
@@ -120,7 +114,7 @@ supervised-deep-learning-algorithms/
 ├── requirements.txt           # Dependencies
 └── LICENSE                    # License information
 ```
----
+
 ## Contributing
 Contributions are welcome! To contribute:
 
