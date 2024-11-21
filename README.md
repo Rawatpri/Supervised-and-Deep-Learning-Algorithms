@@ -124,7 +124,7 @@ Commit your changes and push the branch.
 Create a Pull Request explaining your changes.
 
 ## License
-This repository is licensed under the MIT License. See the LICENSE file for details.
+This repository is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
 
 ## Acknowledgements
 Inspired by the Andrew Ng Machine Learning course and Deeplearning.AI.
