@@ -127,7 +127,7 @@ Create a Pull Request explaining your changes.
 This repository is licensed under the [MIT License](https://github.com/Rawatpri/Supervised-and-Deep-Learning-Algorithms/blob/main/LICENSE
 ). See the LICENSE file for more details. 
 ## Acknowledgements
-Inspired by the Andrew Ng Machine Learning course and Deeplearning.AI.
+Inspired by the Andrew Ng Machine Learning course and Deeplearning.AI.  
 Developed using Python and libraries like NumPy, scikit-learn, TensorFlow, and PyTorch.
 
 
