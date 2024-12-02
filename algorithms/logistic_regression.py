@@ -83,8 +83,8 @@ def toxic_comment_classifier(train_path, test_path, class_names, word_ngram_rang
 # Example usage
 if __name__ == "__main__":
     class_names = ['toxic', 'severe_toxic', 'obscene', 'threat', 'insult', 'identity_hate']
-    train_path = "datasets/toxic_comment_input/train.csv"
-    test_path = "datasets/toxic_comment_input/test.csv"
+    train_path = "datasets/logistic_reg_toxic_comments_input/train.csv"
+    test_path = "datasets/logistic_reg_toxic_comments_input/test.csv"
 
     submission, scores = toxic_comment_classifier(
         train_path=train_path,
@@ -98,4 +98,4 @@ if __name__ == "__main__":
         solver='sag',
         cv_folds=3
     )
-    submission.to_csv("toxic_comment_submission.csv", index=False)
+    submission.to_csv("submission.csv", index=False)
